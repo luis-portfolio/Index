@@ -1,5 +1,8 @@
 # Portfolio Index
 
+### [My general profile](https://github.com/luisnt)
+**Bio: Extroverted, patient, communication, non-photogenic and motivated by new challenges.**
+
 ### [Api Node JS with Express Environment of tests without database](https://github.com/luis-portfolio/Node.JS-Server-with-Express) 
 **Api for frontend development - web, desktop and mobile**
 
