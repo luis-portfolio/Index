@@ -16,6 +16,6 @@
 **Backend for development with support for uploading saved files divided by route for developer frontend no need for backend with databases, just a json file to define the resources/routes and their storable fields**
 
 ### [Chronometer](https://github.com/luis-portfolio/Chronometer)
-**Built with pure javascript, html and css.**
+**Built with JavaScript Vanilla, html5 and css3.**
 
 
