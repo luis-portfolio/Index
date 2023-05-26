@@ -18,4 +18,5 @@
 ### [Chronometer](https://github.com/luis-portfolio/Chronometer)
 **Built with JavaScript Vanilla, html5 and css3.**
 
-
+### [Api REST with C# & Swagger in Visual Studio Code](https://github.com/luis-portfolio/Api-REST-C-Sharp)
+**REST API in C# and Swagger in Visual Studio Code! In a self-configured development environment, covering API logic, implementation, and documentation using Swagger for interactive documentation. Perfect for developers who want to build robust APIs efficiently.**
