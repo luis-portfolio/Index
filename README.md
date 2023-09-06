@@ -1,6 +1,6 @@
 # Portfolio Index
 
-Remembering that these repositories only contain example projects to contribute to the community, and that the main projects cannot be published here for copyright reasons.
+### Remembering that these repositories only contain example projects to contribute to the community, and that the main projects cannot be published here for copyright reasons.
 
 ### [My general profile](https://github.com/luisnt)
 **Bio: Extroverted, patient, communication, non-photogenic and motivated by challenges.**
