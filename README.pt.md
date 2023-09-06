@@ -11,7 +11,7 @@ Lembrando que estes repositórios contêm apenas projetos de exemplo para contri
 ### [Api Node JS com Express Ambiente de testes sem banco de dados](https://github.com/luis-portfolio/Node.JS-Server-with-Express)
 **Este repositório contém a API para desenvolvimento frontend - web, desktop e mobile**
 
-### [Api Node JS para obter dados json sem restrições para uso em aplicativos web, desktop e móveis](https://github.com/luis-portfolio/Api-Node.JS-with-express-to-proxy- url)
+### [Api Node JS para obter dados json sem restrições para uso em aplicativos web, desktop e móveis](https://github.com/luis-portfolio/Api-Node.JS-with-express-to-proxy-url)
 **Este repositório contém a API para obter dados json de solicitações sem restrições de acesso para resposta para uso em aplicações: web, desktop e mobile**
 
 ### [Usei o Cypress para preencher automaticamente o Europass com minhas habilidades.](https://github.com/luis-portfolio/Autofill-Europass-with-Cypress)
