@@ -1,6 +1,6 @@
 # índice de cartera
 
-Recordando que estos repositorios solo contienen proyectos de ejemplo para contribuir a la comunidad, y que los proyectos principales no pueden publicarse aquí por motivos de derechos de autor.
+### Recordando que estos repositorios solo contienen proyectos de ejemplo para contribuir a la comunidad, y que los proyectos principales no pueden publicarse aquí por motivos de derechos de autor.
 
 ### [Mi perfil general](https://github.com/luisnt)
 **Bio: Extrovertida, paciente, comunicativa, no fotogénica y motivada por los desafíos.**
