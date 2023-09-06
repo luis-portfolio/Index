@@ -1,6 +1,6 @@
 # Índice de portfólio
 
-Lembrando que estes repositórios contêm apenas projetos de exemplo para contribuir com a comunidade, e que os projetos principais não podem ser publicados aqui por questões de direitos autorais.
+### Lembrando que estes repositórios contêm apenas projetos de exemplo para contribuir com a comunidade, e que os projetos principais não podem ser publicados aqui por questões de direitos autorais.
 
 ### [Meu perfil geral](https://github.com/luisnt)
 **Bio: Extrovertido, paciente, comunicativo, não fotogênico e motivado por desafios.**
