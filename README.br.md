@@ -5,7 +5,7 @@
 ### [Meu perfil geral](https://github.com/luisnt)
 **Bio: Extrovertido, paciente, comunicativo, não fotogênico e motivado por desafios.**
 
-### [Projeto de programa de implantação usado para otimização de recursos de mídia e compactação de programa](https://github.com/luis-portfolio/Deploy)
+### [Delphi/Alexandria, Projeto de programa de implantação usado para otimização de recursos de mídia e compactação de programa](https://github.com/luis-portfolio/Deploy)
 **Este repositório contém o projeto do programa Deploy usado para otimização de recursos de mídia e compactação de programa em plataformas Windows de 32 e 64 bits**
 
 ### [Api Node JS com Express Ambiente de testes sem banco de dados](https://github.com/luis-portfolio/Node.JS-Server-with-Express)
